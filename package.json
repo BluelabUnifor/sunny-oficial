@@ -21,12 +21,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mafralpm/Sunny.git"
+    "url": "git+https://github.com/BluelabUnifor/sunny-oficial.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mafralpm/Sunny/issues"
+    "url": "https://github.com/BluelabUnifor/sunny-oficial/issues"
   },
-  "homepage": "https://github.com/Mafralpm/Sunny#readme"
+  "homepage": "https://github.com/BluelabUnifor/sunny-oficial#readme"
 }
